@@ -1,0 +1,15 @@
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\bin\Debug\net6.0\pianino.exe
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\bin\Debug\net6.0\pianino.deps.json
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\bin\Debug\net6.0\pianino.runtimeconfig.json
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\bin\Debug\net6.0\pianino.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\bin\Debug\net6.0\pianino.pdb
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.csproj.AssemblyReference.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfoInputs.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfo.cs
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.csproj.CoreCompileInputs.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\refint\pianino.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.pdb
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\pianino.genruntimeconfig.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\pianino\pianino\obj\Debug\net6.0\ref\pianino.dll
